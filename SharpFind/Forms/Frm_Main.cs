@@ -968,7 +968,7 @@ namespace SharpFind
             var info = "Version: " + version
                                    + "\nBuild Date: " + buildDate
                                    + "\n\nAuthor: "   + author
-                                   + "\nPage: http://github.com/ei/SharpFind"
+                                   + "\nPage: http://github.com/Zedohsix/SharpFind"
                                    + "\n\nThis open-source project is licensed under the MIT license.";
 
             MessageBox.Show(info, "About", MessageBoxButtons.OK, MessageBoxIcon.Information);
